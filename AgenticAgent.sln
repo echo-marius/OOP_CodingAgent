@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgenticAgent", "AgenticAgent\AgenticAgent.csproj", "{9BA90AB4-8F0C-40BB-9FDE-5D3B4E78AE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_one", "..\..\lab_one\lab_one\lab_one.csproj", "{5223C26A-4DBC-4DF3-BA6A-B665B4348F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA90AB4-8F0C-40BB-9FDE-5D3B4E78AE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA90AB4-8F0C-40BB-9FDE-5D3B4E78AE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA90AB4-8F0C-40BB-9FDE-5D3B4E78AE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA90AB4-8F0C-40BB-9FDE-5D3B4E78AE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5223C26A-4DBC-4DF3-BA6A-B665B4348F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5223C26A-4DBC-4DF3-BA6A-B665B4348F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5223C26A-4DBC-4DF3-BA6A-B665B4348F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5223C26A-4DBC-4DF3-BA6A-B665B4348F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
